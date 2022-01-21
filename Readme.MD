@@ -19,5 +19,7 @@ Open a terminal/cmd/powershell instance
 Navigate to the project folder directory
 
 Type "python line_print_test.py" to execute the application for the linear solution
+
 or
+
 Type "python table_print_test.py" to execute the application with a 3x3 table formatted solution
